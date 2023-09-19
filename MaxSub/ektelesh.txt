@@ -1,0 +1,2 @@
+Για τον main  κώδικα χρησιμοποιούμε την εντολή: python -u MaxSub.py
+Για τα unit tests χρησιμοποιούμε την εντολή: python -u MaxSubTest.py
